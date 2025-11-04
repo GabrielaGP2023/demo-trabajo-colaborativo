@@ -2,3 +2,4 @@ Hola mundo
 Demo fastforward
 Demo merge
 Demo rebase 
+Demo conflicto desde rama
